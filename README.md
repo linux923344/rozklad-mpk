@@ -1,6 +1,6 @@
 # What did I use?
 Firstly, I must thank https://github.com/xavery/ 
-I use so much your work. Thank You
+I use so much your work. Thank You! @xavery
 
 # Instalation 
 ```sh
