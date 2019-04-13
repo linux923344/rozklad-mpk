@@ -16,7 +16,21 @@ If you want to start the script you can run
 ```sh
 ./start.sh
 ```
-
+# Tree files after instalation
+```sh
+.
+├── index.php
+├── lines
+│   ├── KORN42.php
+│   ├── MURA42.php
+│   ├── OPL01.php
+│   ├── ORZE42.php
+│   ├── RKAP73.php
+│   ├── SOB42.php
+│   └── UAMB01.php
+├── schedule
+└── start
+```
 # Simple
 My schadule is in the http://yorune.pl/rozklad/
 
